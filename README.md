@@ -10,8 +10,8 @@ NOTE THAT BUSCLOTHES HAS MOST OF THE DEFAULT GTA ONLINE CLOTHES IN IT.
 busclothes mainly consists of default gta online clothes, around 200+ add on hair for each gender, and a bunch of add on clothes as well.
 all are fivem ready, tested these in 3 different fivem servers and my test server.
 
-# ensure/start busclothes in resources cfg
-# ensure/start kaireclothes
+### ensure/start busclothes in resources cfg
+### ensure/start kaireclothes
 
 DONT use kaireclothes yet, i need to remove old gang reps / city uniforms
 	REMOVE!!
